@@ -16,7 +16,7 @@ Thanks and enjoy!
 To build from Fira Code, use 
 ($ source build.sh)
 
-Before running the build, make sure python (version 2) is installed, and some libs are ready as well, like:
+Before running the build, make sure python (version 2.7) is installed, and some libs are ready as well, like:
 1. future
 2. fonttools
 3. setuptools
