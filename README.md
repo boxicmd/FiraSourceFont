@@ -14,14 +14,14 @@ Thanks and enjoy!
 
 ## build.sh
 To build from Fira Code, use 
-$ source build.sh
+($ source build.sh)
 
 Before running the build, make sure python (version 2) is installed, and some libs are ready as well, like:
 1. future
 2. fonttools
 3. setuptools
 
-Use $ python -m pip install future,fonttools,setuptools
+Use ($ python -m pip install future,fonttools,setuptools)
 to install them.
 
 Might want to use a virtualenv to install the libs.
