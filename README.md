@@ -20,7 +20,7 @@ Before running the build, make sure python (version 2.7) is installed, and some 
 1. future
 2. fonttools
 
-Use ($ python -m pip install future,fonttools)
+Use ($ python -m pip install future fonttools)
 to install them.
 
 Might want to use a virtualenv to install the libs.
